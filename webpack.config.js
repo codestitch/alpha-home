@@ -44,7 +44,7 @@ module.exports = {
       name: "alpha_home",
       filename: "remoteEntry.js",
       remotes: {
-        alpha_navigation: "alpha_navigation@http://localhost:3001/remoteEntry.js",
+        navigation: "alpha_navigation@http://localhost:3001/remoteEntry.js",
       },
       exposes: {},
       shared: {
